@@ -2,7 +2,7 @@
 
 By Grace Yoo
 
-**Programming Languages and Libraries Used: ** Python, Matplotlib, Pandas, Scipy, Jupyter Notebook
+**Programming Languages and Libraries Used:** Python, Matplotlib, Pandas, Scipy, Jupyter Notebook
 
 # Description
 
@@ -22,10 +22,19 @@ The purpose of this project is to visualize the effectiveness of different drug 
 
 # Results
 
-## Total Timepoints
+## Total Timepoints Per Drug Regimen
 
 ![bar](Pymaceuticals/bar.png)
 
+## Male vs Female Mice
 
+![bar](Pymaceuticals/pandas.png)
 
+## Top Four Treatment Final Tumor Volumes Boxplot
+
+![bar](Pymaceuticals/boxplot.png)
+
+## Mouse Weight vs Tumor Volume for Capomulin Drug Regimen
+
+![bar](Pymaceuticals/scatter.png)
 
